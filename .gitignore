@@ -1,0 +1,33 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Generated data — never commit patient or result data
+data/cache/
+data/parsed_cases/*.json
+!data/parsed_cases/manual_overrides.json
+data/evaluation_results/
+data/cases/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
