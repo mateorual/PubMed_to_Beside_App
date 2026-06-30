@@ -11,7 +11,7 @@ A retrieval-augmented clinical literature assistant that takes a patient case an
 
 ## Demo
 
-https://github.com/mateorual/PubMed_to_Beside_App/blob/main/demo/Demo_01_CopyPaste_Short.mp4
+![Pipeline demo](demo/Demo_01_CopyPaste_Short.gif)
 
 *Paste a patient case description and clinical questions directly into the sidebar, run the 5-stage pipeline, and receive a structured, citation-audited answer grounded in PubMed evidence — all in under a minute.*
 
