@@ -1,0 +1,8 @@
+{
+  "patient_description": "A 32-year-old female nonsmoker with no known family history of cancer presented to her primary care physician after a non-healing wound in her tongue for 5 months that did not respond to conservative measures. A computed tomography scan of the neck revealed a 0.8 cm enhancing mass within the right mid to posterior tongue. There was no palpable lymphadenopathy or enlarged nodes on imaging. The patient underwent a right partial glossectomy and right neck dissection of levels 2 through 4. Pathology revealed a 1.5 cm x 0.7 cm (DOI) keratinizing squamous cell carcinoma with areas of moderate dysplasia. The closest margin was 0.8 cm. No lymphovascular invasion or perineural invasion was seen histologically. Right neck dissection revealed one 1.1 cm right level 2 node out of a total of 22 nodes without extranodal extension.",
+  "questions": [
+    "Would you recommend post-operative radiation therapy?",
+    "If you recommended radiation therapy, would you treat the primary? Unilateral neck or bilateral neck?",
+    "Would you consider adding systemic therapy for this patient or enrollment on a clinical trial such as Radiation Therapy Oncology Group 0920?"
+  ]
+}

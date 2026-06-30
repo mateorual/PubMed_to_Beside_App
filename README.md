@@ -120,6 +120,8 @@ JSON schema for upload:
 }
 ```
 
+Ready-to-use example files are provided in [`Live_Demonstration_Example/Dataset/`](Live_Demonstration_Example/Dataset/). For instance, upload [`Case_12.json`](Live_Demonstration_Example/Dataset/Case_12.json) directly via the "Upload file" option to run a tongue SCC case out of the box — no typing required. `.txt` variants (case description only) are also included for each case.
+
 ### Settings (sidebar)
 
 | Setting | Default | Description |
@@ -225,6 +227,14 @@ PubMed_to_Beside_App/
 │   ├── parsed_cases/        # Parsed case JSON files
 │   └── evaluation_results/  # CLI output (git-ignored)
 ├── img/                     # Logos used in the Streamlit UI
+├── Live_Demonstration_Example/
+│   ├── How_to_Start_App.txt             # Quick-start instructions
+│   ├── PatientDescriptions_and_Questions.docx  # Source case document
+│   └── Dataset/
+│       ├── Case_1.json / Case_1.txt     # Anal SCC with sacral metastasis
+│       ├── Case_9.json / Case_9.txt     # High-risk prostate cancer post-prostatectomy
+│       ├── Case_12.json / Case_12.txt   # Tongue SCC post-glossectomy
+│       └── Test_Information/            # Expected output markdowns + clinical images
 ├── config.py                # All prompts, constants, and LLM client setup
 ├── requirements.txt
 └── .env.example             # API key template

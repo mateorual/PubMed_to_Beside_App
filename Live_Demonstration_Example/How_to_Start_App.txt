@@ -1,0 +1,10 @@
+1. Move to implementation folder:
+cd C:\Users\user\OneDrive\Documentos\FAU_Medical_Engineering\Subjects\SEMESTER 6\Seminar_LLM_Medicine\PubMed_to_Bedside_Implementation
+
+2. Activate virtual environment (previously created via {python -m venv .venv} -> {.\.venv\Scripts\activate} -> {pip install -r requirements.txt}):
+.\.venv\Scripts\activate
+
+3. Start the app: 
+streamlit run app/streamlit_app.py
+
+4. Go to http://localhost:8501/ 

@@ -1,0 +1,10 @@
+{
+  "patient_description": "A 78-year-old man presented with rectal bleeding. Colonoscopy revealed a semicircumferential necrotic mass extending from the dentate proximally into the rectum, measuring 4 cm in length. Biopsy of the lesion was positive for poorly differentiated squamous cell carcinoma. Positron emission tomography – computed tomography revealed the anorectal mass with intense hypermetabolic activity, a 1.3-cm hypermetabolic left inguinal node, and a hypermetabolic lesion in the sacrum. Sacral biopsy confirmed metastatic, poorly differentiated squamous cell cancer. The patient has a history of low-risk prostate cancer treated with low-dose-rate brachytherapy seed implant monotherapy (total dose, 144 Gy) in 2009.",
+  "questions": [
+    "What would be your approach to this patient? Would you offer this patient systemic therapy?",
+    "If you would offer this patient radiation, what would your dose, fractionation, and target volumes be?",
+    "Would you treat the sacral metastasis first, concurrently, or after treating the primary tumor? What would be your dose and fractionation?",
+    "Does the previous seed implant affect your management?",
+    "Do you think the previous brachytherapy treatment resulted in the patient's subsequent development of anal cancer?"
+  ]
+}
